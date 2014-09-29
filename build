@@ -1,0 +1,5 @@
+#! /bin/bash
+
+gcc adc.c -lwiringPi
+
+sudo ./a.out
